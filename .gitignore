@@ -58,3 +58,4 @@ crashlytics-build.properties
 FiniteStateMachines/Library/*
 *.log
 *.cache
+InGameConsole/Library/*
